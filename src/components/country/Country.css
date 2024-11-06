@@ -1,7 +1,7 @@
 .country{
-   background-color: magenta;
-    border: 50px solid maroon;
-    margin:30px;
-    padding: 30px;
-    border-radius: 100px;
+  
+    border: 2px solid maroon;
+    margin:15px;
+    padding: 15px;
+    border-radius: 15px;
 }
